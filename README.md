@@ -1,5 +1,6 @@
 # haulele
 
+![Check Code](https://github.com/stepek/haulele/workflows/Check%20Code/badge.svg)
 haulele
 
 ## Getting Started
